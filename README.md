@@ -7,6 +7,7 @@ Deep one class feature learning implementation.
     * Python 3.6
     * Tensorflow
     * Keras
+    * H5py (HDF5 file format support)
     * Numpy
     * OpenCV2
     * Matplotlib
